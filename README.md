@@ -24,8 +24,8 @@ I have created QR-code site using HTML, CSS. I created two CSS styles file, One 
 
 ## My process
 My process was simple as follows-
-1. I created id and in that I created 2 "<div>" tags and one "<h2>" tag and gave all classes to all of the three.
-2. In one <div> tag I insert image of QR-code and in second I wrote a paragraph which is Grayish Blue in color and in <h2> tag I wrote a heading which is Dark Blue in color.
+1. I created id and in that I created 2 "div" tags and one "h2" tag and gave all classes to all of the three.
+2. In one <div> tag I insert image of QR-code and in second I wrote a paragraph which is Grayish Blue in color and in h2 tag I wrote a heading which is Dark Blue in color.
 3. I created 2 CSS stylesheets for desktop design and mobile design respectively with given condition in style guide with the help of media queries.
 4. In each stylesheets there is lot of CSS custom properties like padding, margin, colors, size adjustments, position adjustments, etc.
 
