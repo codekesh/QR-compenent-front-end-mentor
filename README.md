@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,6 +23,11 @@ I have created QR-code site using HTML, CSS. I created two CSS styles file, One 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+My process was simple as follows-
+1. I created id and in that I created 2 <div> tags and one <h2> tag and gave all classes to all of the three.
+2. In one <div> tag I insert image of QR-code and in second I wrote a paragraph which is Grayish Blue in color and in <h2> tag I wrote a heading which is Dark Blue in color.
+3. I created 2 CSS stylesheets for desktop design and mobile design respectively with given condition in style guide with the help of media queries.
+4. In each stylesheets there is lot of CSS custom properties like padding, margin, colors, size adjustments, position adjustments, etc.
 
 ### Built with
 
@@ -35,17 +39,6 @@ I have created QR-code site using HTML, CSS. I created two CSS styles file, One 
 ### What I learned
 I learned CSS custom properties and give beauty to siteand learned media queries also which give responsive website.
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color
-}
-```
 
 ### Continued development
 
