@@ -51,7 +51,7 @@ I am not comfortable with this CSS code that I used 'ID' here, but 'class' is be
 ## Author
 
 - Frontend Mentor - [@@codekesh](https://www.frontendmentor.io/profile/codekesh)
-- Twitter - [@tulsyan_keshav](https://twitter.com/tulsyan_keshav)
+- Twitter - [@tulsyan_keshav](https://codekesh.github.io/QR-compenent-front-end-mentor/)
 
 ## Acknowledgments
 I am solo player for this project. I am beginner so for learning purpose, I tried my own and I think I give my best for making this website.
