@@ -19,8 +19,8 @@ I have created QR-code site using HTML, CSS. I created two CSS styles file, One 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/codekesh/QR-compenent-front-end-mentor.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [CLick here for Solutions](https://github.com/codekesh/QR-compenent-front-end-mentor.git)
+- Live Site URL: [Click here for live](https://your-live-site-url.com)
 
 ## My process
 My process was simple as follows-
