@@ -1,0 +1,42 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.QrCode img {
+    height: 249px;
+    width: 249px;
+    border-radius: 1em;
+}
+
+#section {
+    position: relative;
+    display: block;
+    margin: auto;
+    top: 100px;
+    padding: 13px 13px;
+    height: 420px;
+    width: 250px;
+    font-family: 'Outfit', sans-serif;
+    background-color: white;
+    border-radius: 1em;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.firstpara {
+    font-size: 21px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    margin: 11px 0;
+}
+
+.secondpara {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+.center {
+    text-align: center;
+}
