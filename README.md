@@ -50,7 +50,7 @@ I am not comfortable with this CSS code that I used 'ID' here, but 'class' is be
 
 ## Author
 
-- Frontend Mentor - [@@codekesh](https://www.frontendmentor.io/profile/codekesh)
+- Frontend Mentor - [@codekesh](https://www.frontendmentor.io/profile/codekesh)
 - Twitter - [@tulsyan_keshav](https://codekesh.github.io/QR-compenent-front-end-mentor/)
 
 ## Acknowledgments
